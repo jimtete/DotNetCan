@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfetsosOOP", "SfetsosOOP\SfetsosOOP.csproj", "{62AACDFC-06DF-4C46-936E-130935D4FC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfetsosOOP2", "SfetsosOOP2\SfetsosOOP2.csproj", "{34EC1D24-E993-422A-98FC-181E72641824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w3ResourceExcercise", "w3ResourceExcercise\w3ResourceExcercise.csproj", "{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AACDFC-06DF-4C46-936E-130935D4FC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AACDFC-06DF-4C46-936E-130935D4FC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AACDFC-06DF-4C46-936E-130935D4FC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AACDFC-06DF-4C46-936E-130935D4FC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EC1D24-E993-422A-98FC-181E72641824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EC1D24-E993-422A-98FC-181E72641824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EC1D24-E993-422A-98FC-181E72641824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EC1D24-E993-422A-98FC-181E72641824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

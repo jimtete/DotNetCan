@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "81gRpsVjxr85P+8zdjUBaKUnVmHKmrEA+QFU5qdDw7fo4HVZrzqdCYmNX0TtcDbNuuQN//bDpl+xOjlFt7h2WQ==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/w3ResourceExcercise.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

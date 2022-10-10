@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/SfetsosOOP
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/SfetsosOOP.deps.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/SfetsosOOP.runtimeconfig.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/SfetsosOOP.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/ref/SfetsosOOP.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/bin/Debug/net6.0/SfetsosOOP.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.AssemblyInfo.cs
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/ref/SfetsosOOP.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/SfetsosOOP/obj/Debug/net6.0/SfetsosOOP.genruntimeconfig.cache

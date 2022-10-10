@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/w3ResourceExcercise
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/w3ResourceExcercise.deps.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/w3ResourceExcercise.runtimeconfig.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/w3ResourceExcercise.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/ref/w3ResourceExcercise.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/bin/Debug/net6.0/w3ResourceExcercise.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.AssemblyInfo.cs
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/ref/w3ResourceExcercise.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/w3ResourceExcercise/obj/Debug/net6.0/w3ResourceExcercise.genruntimeconfig.cache
