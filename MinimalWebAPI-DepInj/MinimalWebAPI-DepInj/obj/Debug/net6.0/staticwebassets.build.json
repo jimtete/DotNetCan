@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9Ia+CgosgGwVjXIo9NDNkyJJqVcpXt6E4kVjJcLIlLo=",
+  "Source": "MinimalWebAPI-DepInj",
+  "BasePath": "_content/MinimalWebAPI-DepInj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
