@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialAPI", "FactorialAPI\FactorialAPI.csproj", "{EAE46C54-2C15-4147-B0D1-BF380319D58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialAPI.Tests", "FactorialAPI.Tests\FactorialAPI.Tests.csproj", "{B55AE25B-9F8A-43A7-8BB2-9862CF1A523B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE46C54-2C15-4147-B0D1-BF380319D58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE46C54-2C15-4147-B0D1-BF380319D58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE46C54-2C15-4147-B0D1-BF380319D58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE46C54-2C15-4147-B0D1-BF380319D58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55AE25B-9F8A-43A7-8BB2-9862CF1A523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55AE25B-9F8A-43A7-8BB2-9862CF1A523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55AE25B-9F8A-43A7-8BB2-9862CF1A523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55AE25B-9F8A-43A7-8BB2-9862CF1A523B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
