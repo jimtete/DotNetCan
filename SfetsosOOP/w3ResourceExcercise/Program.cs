@@ -14,6 +14,10 @@
 //Excercise24();
 //Excercise25();
 //Exercise26();
+//Excercise27();
+//Exercise28();
+Exercise30();
+
 
 
 
@@ -280,6 +284,85 @@ static void Exercise26()
             
         }
         return number + CalculateSumOfPrime(n - 1, number + 1);
+    }
+
+}
+//
+static void Excercise27()
+{
+
+    int n = 125;
+    Console.WriteLine("Digit sum of {0} is: {1}", n, GetRecursiveIntegerSum(n));
+
+    static int GetRecursiveIntegerSum(int sum)
+    {
+        if (sum == 0) return 0;
+
+        return sum % 10 + GetRecursiveIntegerSum(sum / 10);
+    }
+}
+//
+static void Exercise28()
+{
+    string? str;
+    Console.Write("Give me a string:");
+    str = Console.ReadLine();
+
+    string?[] words = str.Split(" ");
+    for (int i = words.Length-1; i >= 0; i--)
+    {
+        Console.Write("{0} ",words[i]);
+    }
+    
+}
+//
+static void Exercise30()
+{
+    string? Hex = "CC12";
+    Hex = Hex.ToUpper();
+
+    int DecimalNumber = GetDecimalValue(Hex,0);
+    Console.WriteLine("Decimal value of {0} is: {1}",Hex,DecimalNumber);
+
+    static int GetDecimalValue(string HexNumber, int power)
+    {
+        string LastDigit = HexNumber.Substring(HexNumber.Length - 1, 1);
+        int RestOfTheNumber;
+        if (HexNumber == "")
+        {
+            return 0;
+        }
+        else
+        {
+            RestOfTheNumber = GetDecimalValue(HexNumber.Substring(0,HexNumber.Length-1),power+1);
+        }
+
+        
+
+        Console.WriteLine(HexNumber.Substring(0,HexNumber.Length-1));
+        
+        
+        switch (LastDigit)
+        {
+            case "0": return (0 ^ power) + RestOfTheNumber;
+            case "1": return (1 ^ power) + RestOfTheNumber;
+            case "2": return (2 ^ power) + RestOfTheNumber;
+            case "3": return (3 ^ power) + RestOfTheNumber;
+            case "4": return (4 ^ power) + RestOfTheNumber;
+            case "5": return (5 ^ power) + RestOfTheNumber;
+            case "6": return (6 ^ power) + RestOfTheNumber;
+            case "7": return (7 ^ power) + RestOfTheNumber;
+            case "8": return (8 ^ power) + RestOfTheNumber;
+            case "9": return (9 ^ power) + RestOfTheNumber;
+            case "A": return (10 ^ power) + RestOfTheNumber;
+            case "B": return (11 ^ power) + RestOfTheNumber;
+            case "C": return (12 ^ power) + RestOfTheNumber;
+            case "D": return (13 ^ power) + RestOfTheNumber;
+            case "E": return (14 ^ power) + RestOfTheNumber;
+            case "F": return (15 ^ power) + RestOfTheNumber;
+            default: return 0;
+        }
+
     }
 
 }
