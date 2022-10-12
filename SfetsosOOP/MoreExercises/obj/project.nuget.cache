@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+1rUGAHQ2hZmxiR0EaRoYwMDQ9lwNIRQqsKCOADXrlx8bT/nTbvd4NHx0DSNbd4xfbRxz67vfrWSkwynpovnw==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/MoreExercises.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

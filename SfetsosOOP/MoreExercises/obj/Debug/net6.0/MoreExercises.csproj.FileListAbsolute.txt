@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.AssemblyInfo.cs
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/MoreExercises
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/MoreExercises.deps.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/MoreExercises.runtimeconfig.json
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/MoreExercises.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/ref/MoreExercises.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/bin/Debug/net6.0/MoreExercises.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/ref/MoreExercises.dll
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.pdb
+/home/ADDC/jimtete/RiderProjects/SfetsosOOP/MoreExercises/obj/Debug/net6.0/MoreExercises.genruntimeconfig.cache

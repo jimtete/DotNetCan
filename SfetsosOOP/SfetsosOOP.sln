@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfetsosOOP2", "SfetsosOOP2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w3ResourceExcercise", "w3ResourceExcercise\w3ResourceExcercise.csproj", "{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{18DBD2CC-99D3-421D-9398-9AE273EA1F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4D4A1F5-7CD6-4F5D-B1CE-E772E026C608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DBD2CC-99D3-421D-9398-9AE273EA1F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DBD2CC-99D3-421D-9398-9AE273EA1F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DBD2CC-99D3-421D-9398-9AE273EA1F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DBD2CC-99D3-421D-9398-9AE273EA1F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
