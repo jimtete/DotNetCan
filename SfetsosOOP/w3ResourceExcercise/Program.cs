@@ -16,10 +16,12 @@
 //Exercise26();
 //Excercise27();
 //Exercise28();
-Exercise30();
-
-
-
+//Exercise30();
+//Exercise31();
+//Exercise32();
+//Exercise33();
+//Exercise34();
+Exercise35();
 
 
 //MyExcercise1();
@@ -318,7 +320,7 @@ static void Exercise28()
 //
 static void Exercise30()
 {
-    string? Hex = "CC12";
+    string? Hex = "4b0";
     Hex = Hex.ToUpper();
 
     int DecimalNumber = GetDecimalValue(Hex,0);
@@ -326,7 +328,6 @@ static void Exercise30()
 
     static int GetDecimalValue(string HexNumber, int power)
     {
-        string LastDigit = HexNumber.Substring(HexNumber.Length - 1, 1);
         int RestOfTheNumber;
         if (HexNumber == "")
         {
@@ -338,31 +339,101 @@ static void Exercise30()
         }
 
         
-
-        Console.WriteLine(HexNumber.Substring(0,HexNumber.Length-1));
+        string LastDigit = HexNumber.Substring(HexNumber.Length - 1, 1);
+        Console.WriteLine(LastDigit);
         
         
         switch (LastDigit)
         {
-            case "0": return (0 ^ power) + RestOfTheNumber;
-            case "1": return (1 ^ power) + RestOfTheNumber;
-            case "2": return (2 ^ power) + RestOfTheNumber;
-            case "3": return (3 ^ power) + RestOfTheNumber;
-            case "4": return (4 ^ power) + RestOfTheNumber;
-            case "5": return (5 ^ power) + RestOfTheNumber;
-            case "6": return (6 ^ power) + RestOfTheNumber;
-            case "7": return (7 ^ power) + RestOfTheNumber;
-            case "8": return (8 ^ power) + RestOfTheNumber;
-            case "9": return (9 ^ power) + RestOfTheNumber;
-            case "A": return (10 ^ power) + RestOfTheNumber;
-            case "B": return (11 ^ power) + RestOfTheNumber;
-            case "C": return (12 ^ power) + RestOfTheNumber;
-            case "D": return (13 ^ power) + RestOfTheNumber;
-            case "E": return (14 ^ power) + RestOfTheNumber;
-            case "F": return (15 ^ power) + RestOfTheNumber;
+            case "0": return RestOfTheNumber;
+            case "1": return 1*GetPower(power)  + RestOfTheNumber;
+            case "2": return 2*GetPower(power) + RestOfTheNumber;
+            case "3": return 3*GetPower(power) + RestOfTheNumber;
+            case "4": return 4*GetPower(power) + RestOfTheNumber;
+            case "5": return 5*GetPower(power) + RestOfTheNumber;
+            case "6": return 6*GetPower(power) + RestOfTheNumber;
+            case "7": return 7*GetPower(power) + RestOfTheNumber;
+            case "8": return 8*GetPower(power) + RestOfTheNumber;
+            case "9": return 9*GetPower(power) + RestOfTheNumber;
+            case "A": return 10*GetPower(power) + RestOfTheNumber;
+            case "B": return 11*GetPower(power) + RestOfTheNumber;
+            case "C": return 12*GetPower(power) + RestOfTheNumber;
+            case "D": return 13*GetPower(power) + RestOfTheNumber;
+            case "E": return 14*GetPower(power) + RestOfTheNumber;
+            case "F": return 15*GetPower(power) + RestOfTheNumber;
             default: return 0;
         }
 
     }
+
+    static int GetPower(int power)
+    {
+        return ((int)Math.Pow(16, power));
+    }
+
+}
+//
+static void Exercise31()
+{
+    int[] array1 = { 1, 3, -5, 4 };
+    int[] array2 = { 1, 4, -5, -2 };
+
+    if (array1.Length == array2.Length)
+    {
+        for (int i = 0; i < array1.Length; i++)
+        {
+            Console.Write("{0} ",array1[i]*array2[i]);
+        }
+    }
+}
+//
+static void Exercise32()
+{
+    string Input = "Who are the patriots?";
+    Console.Write("Newly generated string: {0}",GenerateFourString(Input));
+
+
+    static string GenerateFourString(string input)
+    {
+        string TempOutput = input.Substring(input.Length - 4, 4);
+        string Output = TempOutput + TempOutput+TempOutput+TempOutput;
+
+        return Output;
+    }
+}
+//
+static void Exercise33()
+{
+    Console.Write("Input an integer:");
+    int n = Int32.Parse(Console.ReadLine()!);
+
+    Console.WriteLine("Assumption:{0}",(n % 7 == 0 || n % 3 == 0));
+}
+//
+static void Exercise34()
+{
+    string SpecificWord = "Who";
+    Console.Write("Give me a string:");
+    string? input = Console.ReadLine();
+
+    Console.Write("Assumption: {0}",CheckAssumption(SpecificWord,input));
+
+    static bool CheckAssumption(string specificWord, string input)
+    {
+        int SpecificLength = specificWord.Length;
+        return (input.Substring(0, SpecificLength).Equals(specificWord));
+    }
+
+}
+//
+static void Exercise35()
+{
+    int a, b;
+    Console.Write("Input a first number<100: ");
+    a = Int32.Parse(Console.ReadLine()!);
+    Console.Write("Input a second number>200: ");
+    b = Int32.Parse(Console.ReadLine()!);
+
+    Console.WriteLine("Assumption {0}", (a < 100 && b > 200));
 
 }
