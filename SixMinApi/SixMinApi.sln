@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixMinApi", "SixMinApi\SixMinApi.csproj", "{DDD448FE-0040-4491-9D76-A25115E193CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD448FE-0040-4491-9D76-A25115E193CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD448FE-0040-4491-9D76-A25115E193CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD448FE-0040-4491-9D76-A25115E193CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD448FE-0040-4491-9D76-A25115E193CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

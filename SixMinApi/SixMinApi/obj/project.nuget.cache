@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMvRJ/4DDYXiUOqXc4LEOfzrO+1A7sLKuCskQtSU0gdeq9uRXsY8ltZzYP8ibqdlhYOt3soyqtcdV0IDjNCcLg==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/RiderProjects/SixMinApi/SixMinApi/SixMinApi.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
