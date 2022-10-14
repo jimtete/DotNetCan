@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/Serializer
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/Serializer.deps.json
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/Serializer.runtimeconfig.json
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/Serializer.dll
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/ref/Serializer.dll
+/home/ADDC/jimtete/RiderProjects/Serializer/bin/Debug/net6.0/Serializer.pdb
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.AssemblyInfo.cs
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.dll
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/ref/Serializer.dll
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.pdb
+/home/ADDC/jimtete/RiderProjects/Serializer/obj/Debug/net6.0/Serializer.genruntimeconfig.cache

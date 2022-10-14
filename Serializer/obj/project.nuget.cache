@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qqb4qrowV3vi79/Ze6rcgs97Uva+GvdOZWBMsNhmPFuogXa143TE72gfT8pZTlGUY6BGxUR57WKhR4m/kH18w==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/RiderProjects/Serializer/Serializer.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

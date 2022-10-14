@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "surname": "Tetepoulos",
+  "age": 30,
+  "address": {
+    "streetName": "Miltiadou 2",
+    "city": "Polichnis",
+    "zipCode": "56532"
+  },
+  "phones": [
+    {
+      "phoneType": "Home",
+      "phoneNumber": "2310555666"
+    },
+    {
+      "phoneType": "Mobile",
+      "phoneNumber": "6948336666"
+    }
+  ],
+  "eyeColor": "Blue"
+}
