@@ -21,6 +21,4 @@ public class Person
     public IList<Phone>? Phones { get; set; }
     
     public Address? Address { get; set; }
-    
-    public string? EyeColor;
 }

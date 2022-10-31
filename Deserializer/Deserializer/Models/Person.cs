@@ -6,6 +6,7 @@ public class Person
 {
     public int Id { get; set; }
 
+    [JsonPropertyName("firstname")]
     [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
     public string? FirstName { get; set; }
 
@@ -20,6 +21,4 @@ public class Person
     public Address? Address { get; set; }
 
     public IList<Phone>? Phones { get; set; }
-
-    public string? EyeColor;
 }

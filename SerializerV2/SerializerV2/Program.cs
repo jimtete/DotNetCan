@@ -21,15 +21,13 @@ var person = new Person
     {
         new Phone{ PhoneType = "Home", PhoneNumber = "2310635450"},
         new Phone{ PhoneType = "Mobile", PhoneNumber = "6948487721"}
-    },
-    EyeColor = "Blue"
+    }
 };
 
 var opt = new JsonSerializerOptions
 {
     WriteIndented = true,
-    PropertyNamingPolicy = new LowerCaseNamingPolicy(),
-    IncludeFields = true
+    PropertyNamingPolicy = new LowerCaseNamingPolicy()
 };
 
 string jsonString = JsonSerializer.Serialize<Person>(person, opt);
