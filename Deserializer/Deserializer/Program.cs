@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Net.Http.Json;
+using System.Text.Json;
 using Deserializer.Models;
 
 var opt = new JsonSerializerOptions()
@@ -8,10 +9,36 @@ var opt = new JsonSerializerOptions()
 
 Directory.SetCurrentDirectory("/home/ADDC/jimtete/GitHub/DotNetCan/Deserializer/Deserializer/");
 
-string fileName = "person.json";
+HttpClientHandler clientHandler = new HttpClientHandler();
+clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
 
-string jsonString = File.ReadAllText(fileName);
 
-Person? person = JsonSerializer.Deserialize<Person>(jsonString,opt);
+using HttpClient client = new HttpClient(clientHandler)
+{
+    BaseAddress = new Uri("https://localhost:7231")
+};
 
-Console.WriteLine($"The first name is: {person!.LastName}");
+var temperatures = await client.GetFromJsonAsync<Temperature[]>("weatherforecast", opt);
+if (temperatures != null)
+{
+    foreach (var temp in temperatures)
+    {
+        Console.WriteLine($"Summary: {temp.Summary}");
+    }
+}
+
+/*if (response.IsSuccessStatusCode)
+{
+    var temperatures = await JsonSerializer.DeserializeAsync<Temperature[]>(await response.Content.ReadAsStreamAsync(), opt);
+    if (temperatures != null)
+    {
+        foreach (var temp in temperatures)
+        {
+            Console.WriteLine($"Summary: {temp.Summary}");
+        }
+    }
+}
+else
+{
+    Console.WriteLine($"Whoops!, Error at: {response.StatusCode}");
+}*/
