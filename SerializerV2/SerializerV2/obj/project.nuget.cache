@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rj6d8jFL8l/J7YDA1WPtdbLaFJ4tVCI+tLLmN0AwJi1H8gNR3H1/NYHxlEIBc7kPfRASd39qrzH0JAqY/OJcyg==",
+  "dgSpecHash": "BC2+6tCgcCACfeMj7Xbft/YNAzgWad0U7wisg5xHCRo7wyTwOB5z5Yl5pooQCTWKID/jZK6d8tZqH6BX6zZyVg==",
   "success": true,
-  "projectFilePath": "/home/ADDC/jimtete/RiderProjects/SerializerV2/SerializerV2/SerializerV2.csproj",
+  "projectFilePath": "/home/ADDC/jimtete/GitHub/DotNetCan/SerializerV2/SerializerV2/SerializerV2.csproj",
   "expectedPackageFiles": [
     "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
   ],
