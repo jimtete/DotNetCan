@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzIKSfhFcVWrIq3kkXLFiCgO0q1oSJ0j4E+gvjpy+sxh5AebI/kD8XcbEv1JEzqmzZKnm2UXZWagXseRv/HAlQ==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/GitHub/DotNetCan/Deserializer/Deserializer/Deserializer.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
