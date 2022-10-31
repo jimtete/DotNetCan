@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using SerializerV2.Helpers;
 using SerializerV2.Models;
 Directory.SetCurrentDirectory("/home/ADDC/jimtete/GitHub/DotNetCan/SerializerV2/SerializerV2/");
 
@@ -20,13 +21,15 @@ var person = new Person
     {
         new Phone{ PhoneType = "Home", PhoneNumber = "2310635450"},
         new Phone{ PhoneType = "Mobile", PhoneNumber = "6948487721"}
-    }
+    },
+    EyeColor = "Blue"
 };
 
 var opt = new JsonSerializerOptions
 {
     WriteIndented = true,
-    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+    PropertyNamingPolicy = new LowerCaseNamingPolicy(),
+    IncludeFields = true
 };
 
 string jsonString = JsonSerializer.Serialize<Person>(person, opt);

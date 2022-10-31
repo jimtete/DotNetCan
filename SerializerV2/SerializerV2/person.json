@@ -1,22 +1,22 @@
 {
   "id": 1,
-  "firstName": "Sean",
-  "Surname": "Connery",
+  "firstname": "Sean",
+  "surname": "Connery",
   "age": 90,
-  "isAlive": false,
   "phones": [
     {
-      "phoneType": "Home",
-      "phoneNumber": "2310635450"
+      "phonetype": "Home",
+      "phonenumber": "2310635450"
     },
     {
-      "phoneType": "Mobile",
-      "phoneNumber": "6948487721"
+      "phonetype": "Mobile",
+      "phonenumber": "6948487721"
     }
   ],
   "address": {
-    "streetName": "Foinikos 14",
+    "streetname": "Foinikos 14",
     "city": "Thermi",
-    "zipCode": "57001"
-  }
+    "zipcode": "57001"
+  },
+  "eyecolor": "Blue"
 }

@@ -6,6 +6,7 @@ public class Person
 {
     public int Id { get; set; }
 
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
     public string? FirstName { get; set; }
 
     
@@ -14,9 +15,12 @@ public class Person
 
     public int Age { get; set; }
 
+    [JsonIgnore]
     public bool IsAlive { get; set; }
 
     public IList<Phone>? Phones { get; set; }
     
     public Address? Address { get; set; }
+    
+    public string? EyeColor;
 }
