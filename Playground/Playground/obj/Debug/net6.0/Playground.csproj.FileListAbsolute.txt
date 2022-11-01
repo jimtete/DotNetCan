@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.AssemblyInfo.cs
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/Playground
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/Playground.deps.json
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/Playground.runtimeconfig.json
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/Playground.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/ref/Playground.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/bin/Debug/net6.0/Playground.pdb
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/ref/Playground.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.pdb
+/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/obj/Debug/net6.0/Playground.genruntimeconfig.cache

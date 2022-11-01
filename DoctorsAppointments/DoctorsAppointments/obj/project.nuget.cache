@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c79c2P8j9jqi8L0SfiF58lBMD7Woyh+5te6m0O/uVH6Jdz7mrYqQAAD+5MFu70wUJL2rMFSEQe2/fWYLt+LP0g==",
+  "success": true,
+  "projectFilePath": "/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/DoctorsAppointments.csproj",
+  "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

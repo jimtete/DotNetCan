@@ -1,0 +1,15 @@
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/DoctorsAppointments
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/DoctorsAppointments.deps.json
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/DoctorsAppointments.runtimeconfig.json
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/DoctorsAppointments.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/ref/DoctorsAppointments.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/bin/Debug/net6.0/DoctorsAppointments.pdb
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.csproj.AssemblyReference.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.GeneratedMSBuildEditorConfig.editorconfig
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.AssemblyInfoInputs.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.AssemblyInfo.cs
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.csproj.CoreCompileInputs.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/ref/DoctorsAppointments.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.pdb
+/home/ADDC/jimtete/GitHub/DotNetCan/DoctorsAppointments/DoctorsAppointments/obj/Debug/net6.0/DoctorsAppointments.genruntimeconfig.cache
