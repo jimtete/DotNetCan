@@ -1,4 +1,5 @@
 using CommandAPI.Data;
+using CommandAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -40,24 +41,52 @@ app.MapGet("api/v1/commands", async (AppDbContext context) =>
 
     return Results.Ok(commands);
 });
-/*
-//CREATE
-app.MapGet("api/v1/commands", async (AppDbContext context) =>
-{
 
+//CREATE
+app.MapPost("api/v1/commands", async (AppDbContext context, Command command) =>
+{
+    await context.Commands.AddAsync(command);
+    await context.SaveChangesAsync();
+
+    return Results.Created($"api/v1/commands/{command.CommandId}", command);
 });
 
 //UPDATE
-app.MapGet("api/v1/commands", async (AppDbContext context) =>
+app.MapPut("api/v1/commands/{commandId}", async (AppDbContext context, string commandId
+, Command command) =>
 {
+    var modelCommand = await context.Commands.FirstOrDefaultAsync(c => c.CommandId == commandId);
+    
+    if (modelCommand is null)
+    {
+        return Results.NotFound();
+    }
+
+    modelCommand.HowTo = command.HowTo;
+    modelCommand.Platform = command.Platform;
+    modelCommand.CommandLine = command.CommandLine;
+
+    await context.SaveChangesAsync();
+
+    return Results.NoContent();
 
 });
 
 //DELETE
-app.MapGet("api/v1/commands", async (AppDbContext context) =>
+app.MapDelete("api/v1/commands/{commandId}", async (AppDbContext context, string commandId) =>
 {
+    var command = await context.Commands.FirstOrDefaultAsync(c => c.CommandId == commandId);
 
-});*/
+    if (command == null)
+    {
+        return Results.NotFound();
+    }
+
+    context.Commands.Remove(command);
+    await context.SaveChangesAsync();
+
+    return Results.Ok(command);
+});
 
 
 
