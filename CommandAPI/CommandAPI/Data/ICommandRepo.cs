@@ -8,6 +8,6 @@ public interface ICommandRepo
     Task<Command?> GetCommandById(string cid);
     Task<IList<Command>> GetAllCommands();
     Task CreateCommandAsync(Command command);
-    //Update
+    Task UpdateCommandAsync(Command command);
     void DeleteCommand(Command cmd);
 }

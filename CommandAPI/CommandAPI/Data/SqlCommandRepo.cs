@@ -16,6 +16,12 @@ public class SqlCommandRepo : ICommandRepo
     {
         await _context.SaveChangesAsync();
     }
+    
+    public async Task UpdateCommandAsync(Command command)
+    {
+        Console.WriteLine("--update command async not implemented");
+        await Task.CompletedTask;
+    }
 
     public async Task<Command?> GetCommandById(string cid)
     {
