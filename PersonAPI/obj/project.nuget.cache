@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sfWC152UCG8pxn030uNPBPxcDFomIVgMyzP0MFmODdealaaiEgXnfqICoIQdE5gPxftaB/DnQQDEN34ChzFE4w==",
+  "dgSpecHash": "3VReqBQ7BHRcbEokAyDOLQPEucbDME+7i+k/cwUh0y2Ueu52dNeI5o7fIiDW4X3BYoTcw0nPqKB9LVN44rU+YQ==",
   "success": true,
   "projectFilePath": "/home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/PersonAPI.csproj",
   "expectedPackageFiles": [
+    "/home/ADDC/jimtete/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/home/ADDC/jimtete/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/home/ADDC/jimtete/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/ADDC/jimtete/.nuget/packages/microsoft.entityframeworkcore/6.0.10/microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "/home/ADDC/jimtete/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.10/microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "/home/ADDC/jimtete/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.10/microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",

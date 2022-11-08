@@ -34,3 +34,5 @@
 /home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/obj/Debug/net6.0/ref/PersonAPI.dll
 /home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/obj/Debug/net6.0/PersonAPI.pdb
 /home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/obj/Debug/net6.0/PersonAPI.genruntimeconfig.cache
+/home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/bin/Debug/net6.0/AutoMapper.dll
+/home/ADDC/jimtete/GitHub/DotNetCan/PersonAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
