@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cKMD80NidLZnZGOUbtfBlCT0un7PtG8ccxJbKUMVfrixehLk+IoRtSgXVQ854aYgsUm07qGIcEQGHV7DmDL1lw==",
+  "dgSpecHash": "ZB6EA23esqtmkDuq3Ffoq+CSp9nJzYTZEIhIFvCXywsEXfQ2eJlE2L5ne9zuPR1tb+RQJt0wJhpUXYM47OwqJQ==",
   "success": true,
   "projectFilePath": "/home/ADDC/jimtete/GitHub/DotNetCan/Playground/Playground/Playground.csproj",
   "expectedPackageFiles": [
-    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+    "/home/ADDC/jimtete/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
   ],
   "logs": []
 }
