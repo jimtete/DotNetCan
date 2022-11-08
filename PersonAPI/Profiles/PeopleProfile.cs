@@ -9,6 +9,13 @@ public class PeopleProfile : Profile
     public PeopleProfile()
     {
         // Source --> Destination
-        CreateMap<Person, PersonDto>();
+        CreateMap<Person, PersonReadDto>()
+            .ForMember(dest => dest.Age, 
+                opt => 
+                    opt.MapFrom(src => src.YearsAlive));
+        CreateMap<PersonCreateDto,Person>()
+            .ForMember(dest => dest.FullName,
+                opt => 
+                    opt.MapFrom(src => src.FirstName+ " " + src.LastName));
     }
 }

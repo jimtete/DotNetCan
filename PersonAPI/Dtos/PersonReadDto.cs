@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PersonAPI.Dtos;
 
-public class PersonDto
+public class PersonReadDto
 {
     [Required]
     public int Id { get; set; }
@@ -10,4 +10,6 @@ public class PersonDto
     public string FullName { get; set; }
     [Required]
     public string Telephone { get; set; }
+
+    public int Age { get; set; }
 }
